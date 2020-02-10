@@ -1,0 +1,33 @@
+body {
+  background-color: gray;
+  border-color: rebeccapurple;
+}
+h1 {
+  color: wheat;
+  text-align: center;
+}
+p{
+color:green
+}
+}
+.About-me {
+  color: blueviolet;
+  text-align: left;
+}
+ .my-info{
+  color:rebeccapurple;
+  padding:16%;
+  border:10px; 
+  float:right;
+  text-align:center;
+  width:10%;
+  background-color:black;
+}
+.img{
+  padding:14%;
+}
+h2{
+  background-color:black;
+  color:rosybrown;
+  border:2px;
+}
